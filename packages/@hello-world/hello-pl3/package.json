@@ -1,0 +1,17 @@
+{
+  "name": "@hello-world/hello-pl3",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "exports": {
+    "./route1": "./lib/route1/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pinglue": "^0.0.0"
+  }
+}
